@@ -1,0 +1,38 @@
+
+.nav-container{
+    width: 1550px;
+    height: 60px;
+    background-color: black;
+    color: chartreuse;
+    text-align: center;
+}
+.main-container{
+
+    
+    position: relative;
+
+    width: 690px;
+    height: 385px;
+    background-color: rgb(223, 234, 243);
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    border-radius: 10px;
+    /* border-color: rgb(6, 66, 66); */
+    
+    
+}
+.buttons{
+    display: flex;
+position: relative;
+margin-top: 20px;
+
+margin-left: 650px;
+padding: 20px;
+/* height: 50px; */
+/* width: 300px; */
+/* justify-content: space-between; */
+
+
+
+} 

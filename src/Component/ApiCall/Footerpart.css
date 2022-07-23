@@ -1,0 +1,38 @@
+.parent01{
+    display: flex;
+    column-gap: 10px;
+    padding-top: 7cm;
+}
+.child01{
+    width: 33%;
+    height: 100px;
+    text-align: center;
+}
+
+.child02{
+    width: 33%;
+    height: 100px;
+    text-align: center;
+}
+
+.child03{
+    width: 33%;
+    height: 100px;
+    text-align: center;
+}
+
+.heading{
+    text-align: center;
+
+}
+
+.title{
+    text-align: left;
+}
+
+.getCenter{
+    text-align: center;
+}
+.paddingDesc{
+    padding-top: 80px;
+}

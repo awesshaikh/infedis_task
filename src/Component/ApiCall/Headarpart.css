@@ -1,0 +1,27 @@
+.parent{
+    display: flex;
+    column-gap: 10px;
+}
+.chil1{
+    width: 25%;
+    height: 100px;
+    text-align: center;
+}
+
+.chil2{
+    width: 75%;
+    height: 100px;
+    text-align: center;
+}
+
+.heading{
+    text-align: center;
+
+}
+
+.title{
+    text-align: left;
+}
+.padding{
+    padding-top: 25px;
+}
